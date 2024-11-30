@@ -8,12 +8,11 @@ featured: true
 draft: false
 tags:
   - Spiro
-  - Fogsag
 description:
-  English translation of lecture given by Gyorgy Spiro.
+  How do the Provinces Conquer? English translation of lecture given by György Spiró in 2006. The lecture explores how a superpower (Rome) decays and falls due to the spread of ideas from its periphery. Many parallels can be drawn with the present state of the world, but it isn't always obvious what to consider the periphery or the actual center.
 ---
 
-Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian [transcript](https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf) and videos [here](https://www.youtube.com/watch?v=NQjheO-khmI) and [here](https://www.youtube.com/watch?v=uPvEcRTxsOU&t=4275s). The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery. Nearly twenty years have passed since this lecture, and many parallels can be drawn with the present state of the world, but it isn't always obvious what to consider the periphery or the actual center.
+Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian [transcript](https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf) and videos [here](https://www.youtube.com/watch?v=NQjheO-khmI) and [here](https://www.youtube.com/watch?v=uPvEcRTxsOU&t=4275s). The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery. Many parallels can be drawn with the present state of the world, but it isn't always obvious what to consider the periphery or the actual center.
 
 
 VIII. Semester, Lecture 5 - March 20, 2006
