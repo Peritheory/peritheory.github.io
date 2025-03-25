@@ -10,3 +10,6 @@ theme = "mainroad"
   description = "Peritheory of everything"
   copyright = "Krisztian Flautner"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
