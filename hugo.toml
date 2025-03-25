@@ -1,0 +1,12 @@
+baseURL = 'https://peritheory.com/'
+languageCode = 'en-us'
+title = 'Peritheory'
+theme = "mainroad"
+
+[Author]
+  name = "Krisztian Flautner"
+
+[Params]
+  description = "Peritheory of everything"
+  copyright = "Krisztian Flautner"
+
