@@ -5,7 +5,7 @@ title = 'How the Provinces Conquer'
 +++
 
 Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian [transcript](https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf) and videos [here](https://www.youtube.com/watch?v=NQjheO-khmI) and [here](https://www.youtube.com/watch?v=uPvEcRTxsOU&t=4275s). The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery to its center. The case, twenty years ago could be made for Europe: "masses of people with different religions and mentalities have flowed from the periphery to the center, Europe has failed to integrate them, their numbers are growing, and Europe does not know what to do with them, now its own citizens." 
-The case for the US can be made today: "masses of bad ideas, once considered fringe, have taken over the leadership, the country (and the world) do not know how to replace these memes with better ones, now that the fringe has become its leader."
+The case for the US can be made today: masses of bad ideas, once considered fringe, have taken over the leadership, the country (and the world) do not know how to replace these memes with better ones, now that the fringe has become its leader.
 
 VIII. Semester, Lecture 5 - March 20, 2006
 
