@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Peritheory</title>
-    <link>http://localhost:1313/articles/</link>
+    <link>https://peritheory.com/articles/</link>
     <description>Recent content in Articles on Peritheory</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Mar 2025 21:41:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peritheory.com/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How the Provinces Conquer</title>
-      <link>http://localhost:1313/articles/how-the-provinces-conquer/</link>
+      <link>https://peritheory.com/articles/how-the-provinces-conquer/</link>
       <pubDate>Tue, 25 Mar 2025 21:41:07 +0100</pubDate>
-      <guid>http://localhost:1313/articles/how-the-provinces-conquer/</guid>
-      <description>&lt;p&gt;Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian &lt;a href=&#34;https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf&#34;&gt;transcript&lt;/a&gt; and videos &lt;a href=&#34;https://www.youtube.com/watch?v=NQjheO-khmI&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=uPvEcRTxsOU&amp;amp;t=4275s&#34;&gt;here&lt;/a&gt;. The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery to its center. The case, twenty years ago could be made for Europe: &amp;ldquo;masses of people with different religions and mentalities have flowed from the periphery to the center, Europe has failed to integrate them, their numbers are growing, and Europe does not know what to do with them, now its own citizens.&amp;rdquo;&#xA;The case for the US can be made today: &amp;ldquo;masses of bad ideas, once considered fringe, have taken over the leadership of the country, the country (and the world) do not know how to replace these memes with better ones, now that the fringe has become its leader.&amp;rdquo;&lt;/p&gt;</description>
+      <guid>https://peritheory.com/articles/how-the-provinces-conquer/</guid>
+      <description>&lt;p&gt;Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian &lt;a href=&#34;https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf&#34;&gt;transcript&lt;/a&gt; and videos &lt;a href=&#34;https://www.youtube.com/watch?v=NQjheO-khmI&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=uPvEcRTxsOU&amp;amp;t=4275s&#34;&gt;here&lt;/a&gt;. The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery to its center. The case, twenty years ago could be made for Europe: &amp;ldquo;masses of people with different religions and mentalities have flowed from the periphery to the center, Europe has failed to integrate them, their numbers are growing, and Europe does not know what to do with them, now its own citizens.&amp;rdquo;&#xA;The case for the US can be made today: &amp;ldquo;masses of bad ideas, once considered fringe, have taken over the leadership, the country (and the world) do not know how to replace these memes with better ones, now that the fringe has become its leader.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
