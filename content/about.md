@@ -10,7 +10,4 @@ experienced freedom and the pressure to conform. I am interested in how people
 can create better systems and how good systems can make better people. To understand
 why the periphery is important, read [this article](/articles/how-the-provinces-conquer/).
 
-### Contact
-
-- Email: kris@peritheory.com
-- [LinkedIn](https://linkedin.com/in/kflautner)
+Email kris@peritheory.com or connect on [LinkedIn](https://linkedin.com/in/kflautner)
