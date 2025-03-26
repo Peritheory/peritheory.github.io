@@ -4,8 +4,7 @@ draft = false
 title = 'How the Provinces Conquer'
 +++
 
-Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian [transcript](https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf) and videos [here](https://www.youtube.com/watch?v=NQjheO-khmI) and [here](https://www.youtube.com/watch?v=uPvEcRTxsOU&t=4275s). The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery to its center. Nearly twenty years have passed since this lecture. Ideas once considered fringe are now at its center. Will history rhyme?
-
+Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian [transcript](https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf) and videos [here](https://www.youtube.com/watch?v=NQjheO-khmI) and [here](https://www.youtube.com/watch?v=uPvEcRTxsOU&t=4275s). The lecture explores how a superpower decays and falls due to the spread of ideas from its periphery to its center. Nearly twenty years have passed since this lecture. Ideas once considered fringe are now at the superpower's center. Will history repeat or rhyme?
 
 VIII. Semester, Lecture 5 - March 20, 2006
 
