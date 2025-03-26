@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Peritheory</title>
-    <link>https://peritheory.com/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on Peritheory</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2025 21:41:07 +0100</lastBuildDate>
-    <atom:link href="https://peritheory.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 09:00:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Tell a Bad Idea</title>
+      <link>http://localhost:1313/articles/how-to-tell-a-bad-idea/</link>
+      <pubDate>Wed, 26 Mar 2025 09:00:07 +0100</pubDate>
+      <guid>http://localhost:1313/articles/how-to-tell-a-bad-idea/</guid>
+      <description></description>
+    </item>
     <item>
       <title>How the Provinces Conquer</title>
-      <link>https://peritheory.com/articles/how-the-provinces-conquer/</link>
+      <link>http://localhost:1313/articles/how-the-provinces-conquer/</link>
       <pubDate>Tue, 25 Mar 2025 21:41:07 +0100</pubDate>
-      <guid>https://peritheory.com/articles/how-the-provinces-conquer/</guid>
-      <description>&lt;p&gt;Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian &lt;a href=&#34;https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf&#34;&gt;transcript&lt;/a&gt; and videos &lt;a href=&#34;https://www.youtube.com/watch?v=NQjheO-khmI&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=uPvEcRTxsOU&amp;amp;t=4275s&#34;&gt;here&lt;/a&gt;.&#xA;The lecture explores how superpowers don’t just fall—they sort of stumble around for a while, complain about back pain, and then, before you know it, they’re lying on the floor wondering where it all went wrong. Take Europe, for instance. Decades ago, masses of people with different beliefs and traditions moved in, and Europe, being Europe, had no idea what to do—so it did what it does best: a lot of hand-wringing, followed by a polite (mostly) existential crisis.&#xA;Now, the U.S. is in its own version of this mess, where bad ideas have taken over. Ideas so absurd they used to be fringe, like the guy at the party who thinks tap water is a government conspiracy. And yet, somehow, that guy is now running the place. The country—and the world—are left staring, mouths open, trying to figure out how to swap out these terrible ideas for ones that don’t lead to total economic collapse and loss of power. Will America bounce back? Will it unravel completely? Or will it just keep pretending everything’s fine while nervously adjusting its tie?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/articles/how-the-provinces-conquer/</guid>
+      <description>&lt;p&gt;Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian &lt;a href=&#34;https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf&#34;&gt;transcript&lt;/a&gt; and videos &lt;a href=&#34;https://www.youtube.com/watch?v=NQjheO-khmI&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=uPvEcRTxsOU&amp;amp;t=4275s&#34;&gt;here&lt;/a&gt;.&#xA;The lecture explores how superpowers don’t just fall—they sort of stumble around for a while, complain about back pain, and then, before you know it, they’re lying on the floor wondering where it all went wrong. Take Europe, for instance. Decades ago, masses of people with different beliefs and traditions moved in, and Europe, being Europe, had no idea what to do—so it did what it does best: a lot of hand-wringing, followed by a (mostly) polite existential crisis.&#xA;Now, the U.S. is in its own version of this mess, where bad ideas have taken over. Ideas so absurd they used to be fringe, like the guy at the party who thinks tap water is a government conspiracy. And yet, somehow, that guy is now running the place. The country—and the world—are left staring, mouths open, trying to figure out how to swap out these terrible ideas for ones that don’t lead to total economic collapse and fatal loss of power. Will America bounce back? Will it unravel completely? Or will it just keep pretending everything’s fine while nervously adjusting its tie?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
