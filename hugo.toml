@@ -4,6 +4,12 @@ title = 'Peritheory'
 theme = "mainroad"
 
 
+[Params.logo]
+#  image = "img/placeholder.png"
+  title = "Peritheory"
+  subtitle = "of everything..."
+
+
 [Params]
     description = "Peritheory of everything"
     copyright = "Krisztian Flautner"
@@ -13,9 +19,11 @@ theme = "mainroad"
     post_meta = ["author", "date", "categories"] # Order of post meta information
     dateformat = "2006-01-02" # Change the format of dates
     googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+    customCSS = ["css/custom.css"]
 
 [Params.style.vars]
-    highlightColor = "#483D8B"
+    highlightColor = "#6495ED"
+  #  highlightColor = "#483D8B"
   #    highlightColor = "#4682B4" # Override highlight color
 
 [caches]

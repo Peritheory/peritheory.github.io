@@ -1,0 +1,53 @@
+.footer {
+  background-color: #FAEBD7; /* Replace with your desired color */
+  color: #696969; /* Change text color to ensure readability */
+}
+
+/* If you need to style specific elements within the footer */
+.footer__container {
+  /* Additional styling here */
+}
+
+.footer a {
+  color: #ffffff; /* Change link color if needed */
+}
+
+
+.header {
+  background-color: #FAEBD7; /* Replace with your desired color */
+}
+
+/* You might also want to adjust the text color for better contrast */
+.logo__title,
+.logo__tagline,
+.menu__btn {
+  color: #000000; /* Light text for dark backgrounds */
+}
+
+/* For the navigation menu items */
+.menu__item,
+.menu__list {
+  color: #ffffff;
+}
+
+/* For hover states */
+.menu__list:hover {
+  color: #e0e0e0;
+}
+
+
+/* Target the menu container */
+.menu__container {
+  background-color: #FFF5EE; /* Replace with your desired color */
+}
+
+/* You might need to adjust text colors for better contrast */
+.menu__item,
+.menu__list {
+  color: #ffffff; /* Light text for dark backgrounds */
+}
+
+/* For hover states */
+.menu__list:hover {
+  color: #e0e0e0;
+}
