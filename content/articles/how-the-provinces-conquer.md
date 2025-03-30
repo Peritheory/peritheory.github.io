@@ -1,12 +1,12 @@
 +++
-date = '2025-03-25T21:41:07+01:00'
+date = '2025-03-15T21:41:07+01:00'
 draft = false
 title = 'How the Provinces Conquer'
 +++
 
 Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian [transcript](https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf) and videos [here](https://www.youtube.com/watch?v=NQjheO-khmI) and [here](https://www.youtube.com/watch?v=uPvEcRTxsOU&t=4275s).
 The lecture explores how superpowers don’t just fall—they sort of stumble around for a while, complain about back pain, and then, before you know it, they’re lying on the floor wondering where it all went wrong. Take Europe, for instance. Decades ago, masses of people with different beliefs and traditions moved in, and Europe, being Europe, had no idea what to do—so it did what it does best: a lot of hand-wringing, followed by a (mostly) polite existential crisis.
-Now, the U.S. is in its own version of this mess, where bad ideas have taken over. Ideas so absurd they used to be fringe, like the guy at the party who thinks tap water is a government conspiracy. And yet, somehow, that guy is now running the place. The country—and the world—are left staring, mouths open, trying to figure out how to swap out these terrible ideas for ones that don’t lead to total economic collapse and fatal loss of power. Will America bounce back? Will it unravel completely? Or will it just keep pretending everything’s fine while nervously adjusting its tie?
+Now, the U.S. is in its own version of this mess, where bad ideas have taken over. Ideas so absurd they used to be fringe, like the guy at the party who thinks tap water is a government conspiracy. And yet, somehow, that guy is now running the place. The country—and the world—are left staring, mouths open, trying to figure out how to swap out these terrible ideas for ones that don’t lead to catastrophic decline. Will America bounce back? Will it unravel completely? Or will it just keep pretending everything’s fine while nervously bullying itself and its friends into submission while its enemies are fidgeting in serenely delighted surprise?
 
 VIII. Semester, Lecture 5 - March 20, 2006
 

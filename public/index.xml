@@ -2,25 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peritheory</title>
-    <link>https://peritheory.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Peritheory</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2025 21:41:07 +0100</lastBuildDate>
-    <atom:link href="https://peritheory.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 19:32:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The golden rule and fairness</title>
+      <link>http://localhost:1313/articles/the-golden-rule-and-fairness/</link>
+      <pubDate>Thu, 27 Mar 2025 19:32:52 +0100</pubDate>
+      <guid>http://localhost:1313/articles/the-golden-rule-and-fairness/</guid>
+      <description>&lt;p&gt;Who agrees with the golden rule?&lt;/p&gt;&#xA;&lt;p&gt;Parking in AA va BUD&lt;/p&gt;&#xA;&lt;p&gt;Reflexity&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Do Companies Bend the Rules</title>
+      <link>http://localhost:1313/articles/why-do-companies-bend-the-rules/</link>
+      <pubDate>Thu, 27 Mar 2025 19:32:52 +0100</pubDate>
+      <guid>http://localhost:1313/articles/why-do-companies-bend-the-rules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to Tell a Bad Idea</title>
+      <link>http://localhost:1313/articles/how-to-tell-a-bad-idea/</link>
+      <pubDate>Wed, 26 Mar 2025 09:00:07 +0100</pubDate>
+      <guid>http://localhost:1313/articles/how-to-tell-a-bad-idea/</guid>
+      <description>&lt;p&gt;The same way you tell a good one.&#xA;That&amp;rsquo;s it! End of class.&lt;/p&gt;&#xA;&lt;p&gt;Obviously, you are an expert on the topic already and you know instantly and&#xA;categorically whether an idea is good or bad. You never even feel that tiny, insignificant&#xA;twinge of jealousy when some other person comes up with something clever, and&#xA;you never deliberately delay a paper with a scathing review before you publish yours,&#xA;or undermine that peer in front of your superiors. I know you don&amp;rsquo;t do these things, because&#xA;you are self-aware and spot logical fallacies from miles away. Your reasoning is&#xA;never influenced by cognitive biases, you always apply sound logic, and you are of&#xA;strong moral character: no turpitude involved &lt;a href=&#34;https://www.youtube.com/watch?v=Hz1JWzyvv8A&#34;&gt;of any kind&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How the Provinces Conquer</title>
-      <link>https://peritheory.com/articles/how-the-provinces-conquer/</link>
-      <pubDate>Tue, 25 Mar 2025 21:41:07 +0100</pubDate>
-      <guid>https://peritheory.com/articles/how-the-provinces-conquer/</guid>
-      <description>&lt;p&gt;Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian &lt;a href=&#34;https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf&#34;&gt;transcript&lt;/a&gt; and videos &lt;a href=&#34;https://www.youtube.com/watch?v=NQjheO-khmI&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=uPvEcRTxsOU&amp;amp;t=4275s&#34;&gt;here&lt;/a&gt;.&#xA;The lecture explores how superpowers don’t just fall—they sort of stumble around for a while, complain about back pain, and then, before you know it, they’re lying on the floor wondering where it all went wrong. Take Europe, for instance. Decades ago, masses of people with different beliefs and traditions moved in, and Europe, being Europe, had no idea what to do—so it did what it does best: a lot of hand-wringing, followed by a (mostly) polite existential crisis.&#xA;Now, the U.S. is in its own version of this mess, where bad ideas have taken over. Ideas so absurd they used to be fringe, like the guy at the party who thinks tap water is a government conspiracy. And yet, somehow, that guy is now running the place. The country—and the world—are left staring, mouths open, trying to figure out how to swap out these terrible ideas for ones that don’t lead to total economic collapse and fatal loss of power. Will America bounce back? Will it unravel completely? Or will it just keep pretending everything’s fine while nervously adjusting its tie?&lt;/p&gt;</description>
+      <link>http://localhost:1313/articles/how-the-provinces-conquer/</link>
+      <pubDate>Sat, 15 Mar 2025 21:41:07 +0100</pubDate>
+      <guid>http://localhost:1313/articles/how-the-provinces-conquer/</guid>
+      <description>&lt;p&gt;Below is a translation of a lecture given by György Spiró in 2006. Here is the original hungarian &lt;a href=&#34;https://www.origo.hu/attached/2006032120060321spirogyorgy.rtf&#34;&gt;transcript&lt;/a&gt; and videos &lt;a href=&#34;https://www.youtube.com/watch?v=NQjheO-khmI&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=uPvEcRTxsOU&amp;amp;t=4275s&#34;&gt;here&lt;/a&gt;.&#xA;The lecture explores how superpowers don’t just fall—they sort of stumble around for a while, complain about back pain, and then, before you know it, they’re lying on the floor wondering where it all went wrong. Take Europe, for instance. Decades ago, masses of people with different beliefs and traditions moved in, and Europe, being Europe, had no idea what to do—so it did what it does best: a lot of hand-wringing, followed by a (mostly) polite existential crisis.&#xA;Now, the U.S. is in its own version of this mess, where bad ideas have taken over. Ideas so absurd they used to be fringe, like the guy at the party who thinks tap water is a government conspiracy. And yet, somehow, that guy is now running the place. The country—and the world—are left staring, mouths open, trying to figure out how to swap out these terrible ideas for ones that don’t lead to catastrophic decline. Will America bounce back? Will it unravel completely? Or will it just keep pretending everything’s fine while nervously bullying itself and its friends into submission while its enemies are fidgeting in serenely delighted surprise?&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://peritheory.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://peritheory.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://peritheory.com/images/kris-avatar.jpeg&#34; alt=&#34;My avatar&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Notes informed by a life spent at the periphery but in spitting distance from the center:&#xA;Ann Arbor, Budapest, Cambridge. Lived under various isms, through revolutions,&#xA;experienced freedom and the pressure to conform. I am interested in how people&#xA;can create better systems and how good systems can make better people. To understand&#xA;why the periphery is important, read &lt;a href=&#34;https://peritheory.com/articles/how-the-provinces-conquer/&#34;&gt;this article&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Email &lt;a href=&#34;mailto:kris@peritheory.com&#34;&gt;kris@peritheory.com&lt;/a&gt; or connect on &lt;a href=&#34;https://linkedin.com/in/kflautner&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kris-avatar.jpeg&#34; alt=&#34;My avatar&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Notes informed by a life spent at the periphery but in spitting distance from the center:&#xA;Ann Arbor, Budapest, Cambridge. Lived under various isms, through revolutions,&#xA;experienced freedom and the pressure to conform. I am interested in how people&#xA;can create better systems and how good systems can make better people. To understand&#xA;why the periphery is important, read &lt;a href=&#34;http://localhost:1313/articles/how-the-provinces-conquer/&#34;&gt;this article&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Email &lt;a href=&#34;mailto:kris@peritheory.com&#34;&gt;kris@peritheory.com&lt;/a&gt; or connect on &lt;a href=&#34;https://linkedin.com/in/kflautner&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/articles/equity-is-a-bad-idea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/equity-is-a-bad-idea/</guid>
+      <description>&lt;p&gt;1: I, 2: D, 3: E&lt;/p&gt;&#xA;&lt;p&gt;Inclusion: ARM first day&#xA;Equity: you can get there by making everyone worse off&#xA;Diversity: not against it, but what&amp;rsquo;s the evidence for it?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/articles/structure-of-conspiracy-theories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/structure-of-conspiracy-theories/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
