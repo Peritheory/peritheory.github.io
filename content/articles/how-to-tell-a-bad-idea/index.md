@@ -15,16 +15,13 @@ or undermine that peer in front of your superiors. I know you don't do these thi
 you are self-aware and spot logical fallacies from miles away. Your reasoning is
 never influenced by cognitive biases, you always apply sound logic, and you are of
 strong moral character: no turpitude involved [of any kind](https://www.youtube.com/watch?v=Hz1JWzyvv8A).
-
 I also know that just because you know a lot about one topic, you never assume
 over-competence in another.
 
 I always wanted to be you. But I am not, so I have to do things the hard way,
 like imitating how [John Cleese](https://en.wikipedia.org/wiki/John_Cleese) might
 have introduced this topic. Watch this for the master's take on
-[extremism](https://www.youtube.com/watch?v=wXCkxlqFd90&t=1s), it is much better
-than this pitiful article.
-
+[extremism](https://www.youtube.com/watch?v=wXCkxlqFd90&t=1s).
 [Not that there is anything wrong with](https://www.youtube.com/watch?v=9OH1yEnENG0)
 imitation. In fact, that is how we evolve new ideas and develop techniques for not
 getting taken for a ride by them. I will expose you to a few ideas that most likely
@@ -61,79 +58,152 @@ I hadn't appreciated that many of the absurd, quirky, sarcastic, repressed,
 sometimes overbearing, clever, funny characters weren't just metaphorical figments of someone's
 imagination but I could actually meet them at the [Kingston Arms](https://thekingstonarms.co.uk/).
 The universal meaning I attributed to these skits turn out to be an amalgamation of
-flesh and blood characters from British society. Maybe this should have been
-obvious to me before then, but I missed it. Nonetheless, the ideas in these skits
-made it easier for me to understand Britain a little better and to appreciate
-the universality of some experiences even more. It also made me reconsider how much
-depth is really needed to understand things properly and what "properly understanding"
-something means in the first place. Am I laughing differently at the skit than I did
-before? Did I get what the authors intended me to get? Did the value of that wisdom
-change after I found out that Monty Python were just keen observers of British life?
+flesh and blood characters. Maybe this should have been obvious to me before then,
+but I missed it. Nonetheless, the ideas in these skits made it easier for me to
+understand Britain a little better and to appreciate the universality of some
+experiences even more. It also made me reconsider how much depth is really needed
+to understand things properly and what "properly understanding" something means
+in the first place. Am I laughing differently at the skit than I did before? Did
+I get what the authors intended me to get?
 
 But I am getting ahead of myself by dwelling sentimentally on the context of a set
-of ideas. Let's talk about memes instead. In my view all memes are ideas and all
-ideas are memes. Some people disagree with the last part of this sentence, but their
-disagreement centers on the notion that some ideas are not deliberately designed to
-proliferate quickly. Maybe in some contexts this is a differentiation worth making,
-but as all ideas are put forth with the aim of convincing someone-at minimum its author-
-about the goodness of an idea, speed of proliferation is a secondary concern.
+of ideas. Let's talk about memes instead. All memes are ideas and all ideas are memes.
+Some people disagree with the last part of this sentence, but their disagreement
+centers on the notion that some ideas are not deliberately designed to proliferate
+quickly, and those should not be called memes. Maybe in some contexts this is a
+differentiation worth making, but in my view, all ideas that make it out of its
+author's head want to proliferate, at least to some degree. "Let's have lunch" may
+only be an idea with an audience of a few people and a lifetime of minutes, but
+the idea that "America needs Greenland" might get to millions and have a lifetime
+of weeks. And then, it might get transformed into the idea that "America
+needs to invade Greenland" with even a larger audience and a lifetime of months.
+But then again, it may not; it could just disappear as an idea overnight. A lot
+depends on the context: in this case who propagates the idea and why. But I'm
+getting ahead of myself again.
 
-Ideas vs memes
-Tell vs Recognizew
-
-All ideas are memes, but some ideas propagate
-faster than others. Ideas are like viruses in that they infect humans to reproduce
-and spread. [Richard Dawkins](https://richarddawkins.com) coined the term "meme"
-and popularized the idea in his book [The Selfish Gene](https://richarddawkins.com/books/book/the-selfish-gene).
+Ideas are like viruses: they infect humans to reproduce and spread.
+[Richard Dawkins](https://richarddawkins.com) coined the term "meme" and popularized
+the idea in his book [The Selfish Gene](https://richarddawkins.com/books/book/the-selfish-gene).
 Dawkins introduces the concept of memes as cultural equivalents to genes—ideas,
-behaviors, or practices that replicate and spread from person to person through imitation.
-Like genes, memes undergo a form of natural selection, competing for human attention and
-memory, with the most "catchy" or "fit" ideas surviving and spreading not necessarily
-because they benefit their human hosts but because they're effective self-replicators
-in the environment of human minds.
+behaviors, or practices that replicate and spread from person to person through
+imitation. Like genes, memes undergo a form of [natural selection](https://en.wikipedia.org/wiki/Natural_selection),
+competing for human attention and memory, with the most "catchy" or "fit" ideas
+surviving and spreading not necessarily because they benefit their human hosts but
+because they're effective self-replicators in the environment of human minds. And
+because I don't want to be inadvertently infected by a bad idea, I am
+[skeptical](https://en.wikipedia.org/wiki/Skepticism) about it and the intentions of
+the spreader. I usually hear the idea first before I get a chance to consider its context.
+Unlike in the [Monty Python skit](https://www.youtube.com/watch?v=Qklvh5Cp_Bs), ideas
+don't kill but they might infect, so wear protection!
 
-And because I don't want to be inadvertently infected by a bad idea, I am
-skeptical about it and the intentions of the spreader. In reality, I usually hear
-the idea first before I get a chance to consider its context later and that's ok. Unlike in
-the [Monty Python skit](https://www.youtube.com/watch?v=Qklvh5Cp_Bs), ideas don't kill
-but they might infect, so I wear protection!
+[speed of spread]
 
-Next comes the reflection on the idea itself. Have I heard it before? Does it jive
-with any of the other ideas that I hold in my head? Does it "feel" right? Unless my feelings
-result from a meticulous training on a topic, I wouldn't trust them. Memes that
-succeed (i.e. proliferate) tend to be designed to induce strong feelings so that
-I remember and propagate them. I don't want to be fooled that easily.
+## Deconstructing an idea through self-reflection
 
-A meme can consist of multiple ideas, I usually consider the parts in isolation
-and together as well, so that I understand more about its intended structure. There
-can be appeals to common sense, which itself is a meme that tries to apply peer
-pressure on me by claiming that the idea is obvious and generally accepted, therefore
-so should I. The Hungarian translation for common sense is "sober peasant mind" which
-elicits a mental image of a sturdy, no nonsense, wise man, twirling his mustache, who
-lives in harmony with nature, works hard, lives in moderation, and has ample time
-to reflect on things in the evenings after his daily chores are done. Someone like this guy:
+Deconstruction usually starts with association. Have I heard the idea before? Does it jive
+with any of the other ideas that I hold in my head? Does it "feel" right? Memes that
+succeed tend to be designed to induce emotions so that we remember and propagate them.
+They may not have been deliberately designed to fool us, but a strong emotional
+connection might make us take shortcuts in our analysis. For example, even if an idea
+checks out logically, we may not consider it with its proper context.
+
+A meme can consist of multiple ideas, I usually consider the parts both in isolation
+and together as well. There can be appeals to common sense, which itself is a meme
+that tries to apply peer pressure on me by claiming that the idea is obvious and
+generally accepted, therefore so should I. The idea may actually be a good one and
+it may actually be common sense, but unless I use my critical faculties to judge
+what's presented to me, I could easily end up believing something I shouldn't have.
+
+The Hungarian translation for common sense is "sober peasant mind" which elicits a
+mental image of a sturdy, no nonsense, wise man, twirling his mustache, who lives
+in harmony with nature, works hard, lives in moderation, and has ample time to reflect
+on things in the evenings after his daily chores are done. Someone like this guy:
 
 [![Hungarian Peasant in Kun hat](sober-peasant-mind.jpeg)](https://fotomuzeum.hu/fotografiak/haar_ferenc__magyar_paraszt_kun_suvegben)
 
-And sure, I would like to be like him, so I will accept the idea that is being proposed
-as a good one. It's an interesting cultural quirk that in Hungarian the peasant is
-an individual role model (the i at the end of "paraszti" insinuating that every peasant
-is like that individual): if I think like this ideal peasant, then I'll get the idea.
-In english, the term "common sense" appeals to belonging to a group of people,
-who are not defined aside from their apparent agreement with an idea. Both attempt
+The imagery suggests that I should feel empathy towards that sober peasant, trust him,
+and perhaps even want to be like him. The emotional connection that is induced by the
+suggestion is there so that I will be less resistant to the idea that is being proposed.
+Even better, from the point of view of the meme, I let my guard down fully and I accept it
+without resistance.
+
+You might think that such tricks don't work on you but there is an entire advertising
+industry that proves otherwise. You might also think that
+since you don't speak Hungarian, you'll be immune to the sober peasant's suggestion.
+Sure, maybe initially, but perhaps my description of the peasant has already programmed
+you and the phrase starts to do its magic on you right away. If you started hearing
+and using this phrase more, then you'll find that it will plant certain imagery in
+your head and impact your emotional state in subtle ways. This impact comes from
+repetition and repeated emotional associations, which is a technique that is gladly
+used by the ad men. If you watch political ads (in the US), you can see some very
+transparent techniques: the "bad guy" is usually shown in black and white, with tense
+music in the background. The "good guy" smiles a lot and is in color with upbeat
+music. If you pay attention to your own reactions, you'll experience the emotions
+that these ads were designed to elicit. The actual message of the ad is an overlay
+on top of the emotion-track induced by sounds, words, and images.
+
+Emotional manipulation is overt in ads but scientific articles also use words
+and story arcs in a way that help the audience get on board with their ideas. In most
+cases, this helps convey the idea better but in some cases it may be used to cause
+the audience to gloss over certain weaknesses. The good news is that as the audience,
+how you receive an idea is entirely in your hands. You can reflect on the subtle
+emotions that appear when you hear an idea. You can spend more time on important ones
+and try to understand why you are reacting to it in the way you do. Some of these
+emotions will be about you, some will be about the idea itself. It is your job to
+differentiate between them. Investigating your emotions can lead to better clarity
+about the idea.
+
+Here is something you can try right away. Do you remember the title of this essay?
+If not, look at it and remember the thoughts and emotions it elicits. Instead
+of using the word "recognize," I used the word "tell" in the hopes that you pause
+for a moment on what this essays is supposed to be about. And then I hoped that it
+will make you read on with just a little bit more curiosity than you would have otherwise.
+Did you feel it? Or are you dead inside? If the latter, don't worry: it will come
+with practice of cultivating of a calm and reflective state of mind.
+
+One can go pretty deep with the analysis of ideas. Sometimes this is appropriate,
+other times it is just distraction. If you have written a dissertation, then you
+have probably experienced going down rabbit holes many times, and the discipline
+it requires to resurface and to readjust your priorities. For example, I would
+expect you to forget or just quickly file away my "sober peasant" example alongside of
+a myriad other ideas that might never come in handy on trivia night. But you might
+also start wondering about what it says about Hungarian culture to talk about a
+peasant's mind instead of common sense. My guess is that this term emerged during
+the 18th century when there was a linguistic renewal, and hungarian was pretty
+much only spoken by peasants. So, a little bit of a pat on the back was probably
+deserved. But there is something else interesting in the grammar. Paraszt means
+peasant, paraszti means peasant-like. Notice that it is singular. So that Hungarian
+peasant is an individual role model which puts the reader in a frame of mind that
+suggests that if I think like this ideal peasant, then I'll get the idea. In english,
+the term "common sense" appeals to belonging to a group of people, who are not
+defined aside from their apparent agreement with an idea. Both attempt
 to induce a feeling of [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) in
 the listener. After all, who doesn't want to think correctly like the role model,
-or be an outsider by not being included in an apparently huge group of people.
+or to remain an outsider by not being included in an apparently huge group of people.
+But the emotional coercion is different: analyzing this difference could
+go a long way down a rabbit hole, which I am keen to avoid, aside from an
+illustration of deconstructing an idea. I did this through
+associating ideas with others based on some prior knowledge, self-reflection,
+and with an intent to make things interesting to you so that you engage with the
+text with the right emotions, so that the key ideas mark themselves in your
+brain.
 
-I can buy the idea that that Hungarian peasant will have the right judgement about
-many ideas but I'm pretty sure he would think of [Quantum Theory](https://www.nature.com/articles/d41586-025-00296-9)
-as horse manure. Or maybe not, as he might consult an expert and trust that person's
+One more paragraph on common sense: I can buy the idea that that Hungarian peasant
+will have the right judgement about many ideas but I'm pretty sure he would think
+of [Quantum Theory](https://www.nature.com/articles/d41586-025-00296-9) as horse
+manure. Or maybe not, as he might consult an expert and trust that person's
 judgement on the topic. But even if he did think of complex scientific theories as
-horse manure by default, he might actually be right some of the [time](https://www.americanscientist.org/article/is-string-theory-even-wrong).
-My point is that an appeal to common sense is to treat an idea as an
+horse manure by default, he might actually be right some of the
+[time](https://www.americanscientist.org/article/is-string-theory-even-wrong).
+Experts will probably disagree on this, I am just observing that after 40+ years
+of research there is still no evidence that string theory relates to the physical
+world. Is this a common sense? Who sets the standard? One person's "common" may
+actually be another person's "fringe," so it is worth understanding groups of
+thought and inter-group dynamics. But the real issue with common sense arguments
+is that when its disingenuously, it is an appeal to treat an idea as an
 [axiom](https://en.wikipedia.org/wiki/Axiom#:~:text=An%20axiom%2C%20postulate%2C%20or%20assumption,which%20commends%20itself%20as%20evident'.)
 even if its truth value could be evaluated by the listener. It's best to not be
-lazy and to do the mental work to evaluation whether that axiom is in alignment.
+lazy and to do the mental work to evaluate whether that axiom aligns.
 
 ## Context is as important as the idea itself
 
