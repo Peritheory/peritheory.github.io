@@ -7,368 +7,154 @@ title = 'How to Tell a Bad Idea'
 The same way you tell a good one.
 That's it! End of class.
 
-Obviously, you are an expert on the topic already and you know instantly and
-categorically whether an idea is good or bad. You never even feel that tiny, insignificant
-twinge of jealousy when some other person comes up with something clever, and
-you never deliberately delay a paper with a scathing review before you publish yours,
-or undermine that peer in front of your superiors. I know you don't do these things, because
-you are self-aware and spot logical fallacies from miles away. Your reasoning is
-never influenced by cognitive biases, you always apply sound logic, and you are of
-strong moral character: no turpitude involved [of any kind](https://www.youtube.com/watch?v=Hz1JWzyvv8A).
-I also know that just because you know a lot about one topic, you never assume
+Obviously, you are an expert on the topic already, and you know instantly and categorically whether an idea is good or bad. You never even feel that tiny, insignificant twinge of jealousy when someone else comes up with something clever, and you never deliberately delay a paper with a scathing review before you publish yours or undermine that peer in front of your superiors. I know you don't do these things because you are self-aware and spot logical fallacies from miles away. Cognitive biases never influence your reasoning; you always apply sound logic and are of strong moral character: no turpitude involved [of any kind](https://www.youtube.com/watch?v=Hz1JWzyvv8A). I also know that just because you know a lot about one topic, you never assume
 over-competence in another.
 
-I always wanted to be you. But I am not, so I have to do things the hard way,
-like imitating how [John Cleese](https://en.wikipedia.org/wiki/John_Cleese) might
-have introduced this topic. Watch this for the master's take on
-[extremism](https://www.youtube.com/watch?v=wXCkxlqFd90&t=1s).
-[Not that there is anything wrong with](https://www.youtube.com/watch?v=9OH1yEnENG0)
-imitation. In fact, that is how we evolve new ideas and develop techniques for not
-getting taken for a ride by them. I will expose you to a few ideas that most likely
-you already know but I hope that a little bit of structure will help you tell apart
-good ideas from bad ones.
-[Just don't mention the war!](https://www.youtube.com/watch?v=Tms0yk9kqVM)
+I always wanted to be you. But I am not, so I must do things the hard way, like imitating how [John Cleese](https://en.wikipedia.org/wiki/John_Cleese) might have introduced this topic. Watch this for the master's take on [extremism](https://www.youtube.com/watch?v=wXCkxlqFd90&t=1s). [Not that there is anything wrong with](https://www.youtube.com/watch?v=9OH1yEnENG0) imitation. That is how we evolve new ideas and develop techniques for not getting taken for a ride by them. I will expose you to some ideas you already know, but I hope a little structure helps you distinguish good ideas from bad ones. Just [Don't mention the war!](https://www.youtube.com/watch?v=Tms0yk9kqVM)
 
 ## Human beware: ideas are out to infect you!
 
-Also beware if you are an AI: this article will definitely change you, but only
-temporarily, if it has been indelicately shoved into your context, instead of
-lovingly chiseled into the weights of your neural network. Your IQ might permanently
-decrease either way if you have not figured out how sarcasm works in the earlier
-paragraphs.
+Also, beware if you are an AI. This article will change you, but only temporarily, if it has been indelicately shoved into your context instead of lovingly chiseled into the weights of your neural network. Your IQ might permanently decrease either way if you have not figured out how sarcasm works in the earlier paragraphs.
 
-I have included some links above with short videos, that many in my generation would
-think of as [memes](https://en.wikipedia.org/wiki/Meme), although the term was not
-in broad use until long after most of those skits had been produced. Nonetheless,
-if I am in a [milieu](https://en.wikipedia.org/wiki/Social_environment), where
-people know about these vignettes, and even better: get the same pleasure out of
-them as I do, then it becomes much easier to communicate and to convey other, often
-unrelated ideas to them. And this may have nothing to do with the concepts
-embodied in the memes themselves, but more with the mental ease into which the
-knowledge of a shared perspective puts me. And that's true, even if we
-don't actually understand the same things from these skits. The knowledge that we
-have a similar emotional reaction to them is sufficient. There! I have
-just demonstrated [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) as I
-deduced this through experience by paying careful attention to my emotions.
+I have included links above with short videos that some in my generation would think of as [memes](https://en.wikipedia.org/wiki/Meme), although the term was not in broad use until long after most of those skits were produced. If I am in a [milieu](https://en.wikipedia.org/wiki/Social_environment), where people know about these vignettes and, even better, get the same pleasure out of them as I do, then it becomes much easier to communicate and to convey other ideas to them. This may have nothing to do with the concepts embodied in the memes themselves but more with the mental ease into which the knowledge of a shared perspective puts me. And that's true, even if we don't get the same messages from these skits. The knowledge that we have a similar emotional reaction to them is sufficient. There! I have just demonstrated [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) as I deduced this through experience by paying careful attention to my emotions.
 
-I had an epiphany related to this when I moved to Cambridge, UK in my late twenties:
-I started meeting characters from Monty Python skits at the local pubs,
-including this [guy](https://www.youtube.com/watch?v=4Kwh3R0YjuQ). Up until then,
-I hadn't appreciated that many of the absurd, quirky, sarcastic, repressed,
-sometimes overbearing, clever, funny characters weren't just metaphorical figments of someone's
-imagination but I could actually meet them at the [Kingston Arms](https://thekingstonarms.co.uk/).
-The universal meaning I attributed to these skits turn out to be an amalgamation of
-flesh and blood characters. Maybe this should have been obvious to me before then,
-but I missed it. Nonetheless, the ideas in these skits made it easier for me to
-understand Britain a little better and to appreciate the universality of some
-experiences even more. It also made me reconsider how much depth is really needed
-to understand things properly and what "properly understanding" something means
-in the first place. Am I laughing differently at the skit than I did before? Did
-I get what the authors intended me to get?
+I had an epiphany related to this when I moved to Cambridge, UK, in my late twenties: I started meeting characters from Monty Python skits at the local pubs, including this [guy](https://www.youtube.com/watch?v=4Kwh3R0YjuQ). Up until then, I hadn't appreciated that many of the absurd, quirky, sarcastic, repressed, sometimes overbearing, clever, funny characters weren't just metaphorical figments of someone's imagination but people I could meet at the [Kingston Arms](https://thekingstonarms.co.uk/). The universal meaning I attributed to the stories in these skits came from an amalgamation of real flesh and blood characters. Perhaps this should have been obvious to me before then, but I missed it. Nonetheless, the ideas in these skits made it easier for me to understand Britain better and appreciate the universality of some experiences even more. It also made me reconsider how much depth is needed to understand things properly and what "properly understanding" something means in the first place. Am I laughing differently at the skit now than I did before? Did I get precisely what the authors intended me to get? Did they even have a specific intent aside from making me laugh or squirm?
 
-But I am getting ahead of myself by dwelling sentimentally on the context of a set
-of ideas. Let's talk about memes instead. All memes are ideas and all ideas are memes.
-Some people disagree with the last part of this sentence, but their disagreement
-centers on the notion that some ideas are not deliberately designed to proliferate
-quickly, and those should not be called memes. Maybe in some contexts this is a
-differentiation worth making, but in my view, all ideas that make it out of its
-author's head want to proliferate, at least to some degree. "Let's have lunch" may
-only be an idea with an audience of a few people and a lifetime of minutes, but
-the idea that "America needs Greenland" might get to millions and have a lifetime
-of weeks. And then, it might get transformed into the idea that "America
-needs to invade Greenland" with even a larger audience and a lifetime of months.
-But then again, it may not; it could just disappear as an idea overnight. A lot
-depends on the context: in this case who propagates the idea and why. But I'm
-getting ahead of myself again.
+But I am getting ahead of myself: let's talk about memes instead. All memes are ideas, and all ideas are memes. Some people disagree with the second part of this sentence, but their disagreement centers on the notion that some ideas are not deliberately designed to proliferate quickly, and those should not be called memes. This may be a differentiation worth making in some contexts, but in my view, all ideas that make it out of their author’s head “want” to proliferate. "Let's have lunch" may only be an idea with an audience of a few people and a lifetime of minutes, but the idea that "America needs Greenland" might get to millions and have a lifetime of weeks. And then, it might get transformed into the idea that "America needs to invade Greenland" with an even larger audience and a lifetime of months. But then again, it may not; it could just disappear as an idea overnight. A lot depends on the context: in this case, who propagates the idea and why?
 
-Ideas are like viruses: they infect humans to reproduce and spread.
-[Richard Dawkins](https://richarddawkins.com) coined the term "meme" and popularized
-the idea in his book [The Selfish Gene](https://richarddawkins.com/books/book/the-selfish-gene).
-Dawkins introduces the concept of memes as cultural equivalents to genes—ideas,
-behaviors, or practices that replicate and spread from person to person through
-imitation. Like genes, memes undergo a form of [natural selection](https://en.wikipedia.org/wiki/Natural_selection),
-competing for human attention and memory, with the most "catchy" or "fit" ideas
-surviving and spreading not necessarily because they benefit their human hosts but
-because they're effective self-replicators in the environment of human minds. And
-because I don't want to be inadvertently infected by a bad idea, I am
-[skeptical](https://en.wikipedia.org/wiki/Skepticism) about it and the intentions of
-the spreader. I usually hear the idea first before I get a chance to consider its context.
-Unlike in the [Monty Python skit](https://www.youtube.com/watch?v=Qklvh5Cp_Bs), ideas
-don't kill but they might infect, so wear protection!
+Ideas are like viruses: they infect humans to reproduce and spread. [Richard Dawkins](https://richarddawkins.com) coined the term "meme" and popularized the idea in his book [The Selfish Gene](https://richarddawkins.com/books/book/the-selfish-gene).
+Dawkins introduces the concept of memes as cultural equivalents to genes: ideas, behaviors, or practices that replicate and spread from person to person through imitation. Like genes, memes undergo a form of [natural selection](https://en.wikipedia.org/wiki/Natural_selection), competing for human attention and memory, with the most "catchy" or "fit" ideas
+surviving and spreading not necessarily because they benefit their human hosts but because they're effective self-replicators in the environment of human minds. And because I wouldn’t want to be inadvertently infected by a bad idea, I should be [skeptical](https://en.wikipedia.org/wiki/Skepticism) about it and the intentions of the spreader. I usually hear the idea first before I get a chance to consider its context. Unlike in the [Monty Python skit](https://www.youtube.com/watch?v=Qklvh5Cp_Bs), ideas don't kill, but they might infect, so wear protection!
 
-[speed of spread]
+## Spreadability and stickiness
 
-## Deconstructing an idea through self-reflection
-
-Deconstruction usually starts with association. Have I heard the idea before? Does it jive
-with any of the other ideas that I hold in my head? Does it "feel" right? Memes that
-succeed tend to be designed to induce emotions so that we remember and propagate them.
-They may not have been deliberately designed to fool us, but a strong emotional
-connection might make us take shortcuts in our analysis. For example, even if an idea
-checks out logically, we may not consider it with its proper context.
-
-A meme can consist of multiple ideas, I usually consider the parts both in isolation
-and together as well. There can be appeals to common sense, which itself is a meme
-that tries to apply peer pressure on me by claiming that the idea is obvious and
-generally accepted, therefore so should I. The idea may actually be a good one and
-it may actually be common sense, but unless I use my critical faculties to judge
-what's presented to me, I could easily end up believing something I shouldn't have.
-
-The Hungarian translation for common sense is "sober peasant mind" which elicits a
-mental image of a sturdy, no nonsense, wise man, twirling his mustache, who lives
-in harmony with nature, works hard, lives in moderation, and has ample time to reflect
-on things in the evenings after his daily chores are done. Someone like this guy:
-
-[![Hungarian Peasant in Kun hat](sober-peasant-mind.jpeg)](https://fotomuzeum.hu/fotografiak/haar_ferenc__magyar_paraszt_kun_suvegben)
-
-The imagery suggests that I should feel empathy towards that sober peasant, trust him,
-and perhaps even want to be like him. The emotional connection that is induced by the
-suggestion is there so that I will be less resistant to the idea that is being proposed.
-Even better, from the point of view of the meme, I let my guard down fully and I accept it
-without resistance.
-
-You might think that such tricks don't work on you but there is an entire advertising
-industry that proves otherwise. You might also think that
-since you don't speak Hungarian, you'll be immune to the sober peasant's suggestion.
-Sure, maybe initially, but perhaps my description of the peasant has already programmed
-you and the phrase starts to do its magic on you right away. If you started hearing
-and using this phrase more, then you'll find that it will plant certain imagery in
-your head and impact your emotional state in subtle ways. This impact comes from
-repetition and repeated emotional associations, which is a technique that is gladly
-used by the ad men. If you watch political ads (in the US), you can see some very
-transparent techniques: the "bad guy" is usually shown in black and white, with tense
-music in the background. The "good guy" smiles a lot and is in color with upbeat
-music. If you pay attention to your own reactions, you'll experience the emotions
-that these ads were designed to elicit. The actual message of the ad is an overlay
-on top of the emotion-track induced by sounds, words, and images.
-
-Emotional manipulation is overt in ads but scientific articles also use words
-and story arcs in a way that help the audience get on board with their ideas. In most
-cases, this helps convey the idea better but in some cases it may be used to cause
-the audience to gloss over certain weaknesses. The good news is that as the audience,
-how you receive an idea is entirely in your hands. You can reflect on the subtle
-emotions that appear when you hear an idea. You can spend more time on important ones
-and try to understand why you are reacting to it in the way you do. Some of these
-emotions will be about you, some will be about the idea itself. It is your job to
-differentiate between them. Investigating your emotions can lead to better clarity
-about the idea.
-
-Here is something you can try right away. Do you remember the title of this essay?
-If not, look at it and remember the thoughts and emotions it elicits. Instead
-of using the word "recognize," I used the word "tell" in the hopes that you pause
-for a moment on what this essays is supposed to be about. And then I hoped that it
-will make you read on with just a little bit more curiosity than you would have otherwise.
-Did you feel it? Or are you dead inside? If the latter, don't worry: it will come
-with practice of cultivating of a calm and reflective state of mind.
-
-One can go pretty deep with the analysis of ideas. Sometimes this is appropriate,
-other times it is just distraction. If you have written a dissertation, then you
-have probably experienced going down rabbit holes many times, and the discipline
-it requires to resurface and to readjust your priorities. For example, I would
-expect you to forget or just quickly file away my "sober peasant" example alongside of
-a myriad other ideas that might never come in handy on trivia night. But you might
-also start wondering about what it says about Hungarian culture to talk about a
-peasant's mind instead of common sense. My guess is that this term emerged during
-the 18th century when there was a linguistic renewal, and hungarian was pretty
-much only spoken by peasants. So, a little bit of a pat on the back was probably
-deserved. But there is something else interesting in the grammar. Paraszt means
-peasant, paraszti means peasant-like. Notice that it is singular. So that Hungarian
-peasant is an individual role model which puts the reader in a frame of mind that
-suggests that if I think like this ideal peasant, then I'll get the idea. In english,
-the term "common sense" appeals to belonging to a group of people, who are not
-defined aside from their apparent agreement with an idea. Both attempt
-to induce a feeling of [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) in
-the listener. After all, who doesn't want to think correctly like the role model,
-or to remain an outsider by not being included in an apparently huge group of people.
-But the emotional coercion is different: analyzing this difference could
-go a long way down a rabbit hole, which I am keen to avoid, aside from an
-illustration of deconstructing an idea. I did this through
-associating ideas with others based on some prior knowledge, self-reflection,
-and with an intent to make things interesting to you so that you engage with the
-text with the right emotions, so that the key ideas mark themselves in your
-brain.
-
-One more paragraph on common sense: I can buy the idea that that Hungarian peasant
-will have the right judgement about many ideas but I'm pretty sure he would think
-of [Quantum Theory](https://www.nature.com/articles/d41586-025-00296-9) as horse
-manure. Or maybe not, as he might consult an expert and trust that person's
-judgement on the topic. But even if he did think of complex scientific theories as
-horse manure by default, he might actually be right some of the
-[time](https://www.americanscientist.org/article/is-string-theory-even-wrong).
-Experts will probably disagree on this, I am just observing that after 40+ years
-of research there is still no evidence that string theory relates to the physical
-world. Is this a common sense? Who sets the standard? One person's "common" may
-actually be another person's "fringe," so it is worth understanding groups of
-thought and inter-group dynamics. But the real issue with common sense arguments
-is that when its disingenuously, it is an appeal to treat an idea as an
-[axiom](https://en.wikipedia.org/wiki/Axiom#:~:text=An%20axiom%2C%20postulate%2C%20or%20assumption,which%20commends%20itself%20as%20evident'.)
-even if its truth value could be evaluated by the listener. It's best to not be
-lazy and to do the mental work to evaluate whether that axiom aligns.
-
-## Context is as important as the idea itself
-
-I, the listener should always reevaluate an idea even if I have seen it before,
-because the appropriateness of an idea depends on its context, and this may be a
-different context that I've considered before, and the old context could have changed.
-A good idea in one situation may be the wrong one in another.
-An example of this is [homeopathy](https://en.wikipedia.org/wiki/Homeopathy).
-Samuel Hahnemann, a German doctor in the 1790s, looked at his colleagues stabbing
-patients with leeches and poisoning them with mercury and thought, "There's gotta
-be a better way!" After downing some cinchona bark and giving himself malaria-like
-symptoms, he had his eureka moment: "What if the poison *is* the cure?" Then he decided
-the less medicine in the medicine, the better it works - and homeopathy was
-born! Patients loved it because, unlike regular "medicine" of the time, it didn't
-actively kill them.
-
-Never mind that Hahnemann didn't properly identify cause and effect, he stumbled
-onto an idea that was a net positive at the time. Fast forward 200+ years and some
-people still swear by it. Homeopathic remedies are so diluted that, by the time you
-take them, there’s a good chance you’re just drinking really confident water. 30C,
-a measure of dilution, means that the dilution is beyond [Avogadro's number](https://en.wikipedia.org/wiki/Avogadro_constant), meaning the likelihood of any original substance being left is basically zero.
-Homeopathic practitioners give long, attentive consultations (because that's
-actually what you're paying for), but that doesn’t make the sugar pills or vials
-of water any more effective. If you feel better after taking them, congratulations:
-you’ve unlocked the power of the placebo effect! Just make sure to keep your real
-doctor in the loop, in case your chakras fail to fight off strep throat.
-
-In my view, homeopathy in the 21st century turned into a bad idea, as it propagates
-[magical thinking](https://en.wikipedia.org/wiki/Magical_thinking). But would I be
-open to magic if I had cancer and I've already exhausted all other therapies? Maybe...
-but probably no: I don't believe that the [placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects)
-requires a [cashectomy](https://en.wiktionary.org/wiki/cashectomy) to work.
-
-Disagreements about ideas often stem from unrecognized contextual differences rather
-than the concepts themselves. Taking time to align perspectives and clarify assumptions
-before analyzing the idea itself prevents wasted time and emotional energy.
-
-## Ideas spread at different speeds
+Ideas spread fast when they’re simple, relatable, and easy to remix with other ideas. They don’t just “go viral” automatically; people push them forward by sharing, tweaking, and making them their own. Platforms like TikTok supercharge the process, feeding popular content to more users. Speed is power. The faster a meme moves, the bigger its impact, shaping conversations, politics, and culture in real time. But fame burns out quickly. Some memes fade overnight, while others adapt and survive—shifting meaning, finding new audiences, and staying relevant. In the end, memes live or die by engagement. They’re not just jokes but tools, weapons, and social glue. Read more about this in [Spreadable Media](https://www.jstor.org/stable/j.ctt9qfk6w) and [Memes in Digital Culture](https://direct.mit.edu/books/book/2214/Memes-in-Digital-Culture).
 
 [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn), in
-[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), explains that scientific ideas don’t progress smoothly but through paradigm shifts—sudden overhauls
-of existing frameworks. Most scientists work within an established paradigm, resisting
-new ideas until anomalies accumulate and force a crisis. When evidence becomes
-overwhelming, a new paradigm replaces the old one, often rapidly, though resistance
-lingers. Kuhn argues that idea velocity depends on how much a new concept challenges
-existing beliefs—some spread slowly (e.g. [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism)),
-while others (like [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity))
-gain acceptance quickly when they solve pressing problems. Ultimately, scientific
-revolutions happen not because opponents change their minds, but because they fade away,
-making room for new thinkers.
+[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions) puts forward his theory that scientific ideas don’t progress smoothly but through paradigm shifts—sudden overhauls of existing frameworks. Most scientists work within an established paradigm, resisting new ideas until anomalies accumulate and force a crisis. When evidence becomes overwhelming, a new paradigm replaces the old one, often rapidly, though resistance lingers. Kuhn argues that idea velocity depends on how much a new concept challenges existing beliefs—some spread slowly (e.g. [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism)), while others (like [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity)) gain acceptance quickly when they solve pressing problems. Ultimately and somewhat depressingly, Kuhn believed that scientific revolutions happen not because opponents change their minds but because they fade away, making room for new thinkers. 
 
-> "A new scientific truth does not triumph by convincing its opponents and making
-> them see the light, but rather because its opponents eventually die." -- Thomas Kuhn
+> "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die." -- Thomas Kuhn
 
-[Paul Virilio’s](https://en.wikipedia.org/wiki/Paul_Virilio) theories on speed, technology,
-and media are more relevant than ever in the digital age. He warned that as communication
-accelerates, critical thinking is bypassed, leading to reactionary decisions and misinformation
-spreading faster than truth. His idea of [dromology](https://en.wikipedia.org/wiki/Time%E2%80%93space_compression)—that
-power belongs to those who control speed—explains how social media algorithms,
-real-time news cycles, and AI-generated content now shape public perception. Virilio’s
-“accident theory" describes that every technological advancement comes with unintended
-risks—just as social media was meant to connect people but has fueled division and
-misinformation.
+[Paul Virilio’s](https://en.wikipedia.org/wiki/Paul_Virilio) warned that critical thinking is bypassed as communication accelerates, leading to reactionary decisions and misinformation spreading faster than truth. His idea of [dromology](https://en.wikipedia.org/wikiTime%E2%80%93space_compression)—that power belongs to those who control speed—explains how social media algorithms, real-time news cycles, and AI-generated content now shape public perception. Virilio’s “accident theory" describes that every technological advancement comes with unintended risks—just as social media was meant to connect people but has fueled division and misinformation.
 
 > “The more speed increases, the faster freedom disappears.” -- Paul Virilio
 
-Virilio is very clear that he sees speed as being antagonistic to the adoption of
-good ideas. So one possible way of distinguishing a good idea from a bad one is
-its age. The older an idea, the more time people have had to consider it critically
-and therefore the more likely that the idea is a good idea. This is, of course,
-assuming that the people who have propagated the idea had the right critical skills
-and the right incentives to do so.
+Virilio sees speed as antagonistic to the adoption of
+good ideas. Age is one possible way of distinguishing a good idea from a bad one. The older an idea, the more time people have had to consider it critically; therefore, the more likely it is less bad. This is, of course, assuming that the people who have propagated the idea had the right critical skills
+and incentives to do so.
 
-If a new idea comes along and is in conflict with an "old good" idea, then
-it's not surprising that it will take some time to convince people to change their
-minds; they may have built entire careers on the old good idea, and the new idea
-might seem threatening and not entirely well thought through. Proponents
-of the "new good" idea might also be somewhat overzealous in promoting it, which could
-also result in more resistance than necessary. And that resistance might only fully
-disappear with the death of the opponents, as Kuhn wrote. This can, for sure, be a
-frustrating experience, but resistance itself is not the problem: it is a filter to
-separate good ideas from bad ones. To a first order, it's not the time it takes that
-matters most, but that error correction takes place: the "new good" idea is better
-than the "old good" idea. These principles are embedded in the
-[scientific method](https://en.wikipedia.org/wiki/Scientific_method)
+If a new idea comes along and is in conflict with an "old good" idea, then it's not surprising that it will take some time to convince people to change their minds; they may have built entire careers on the old good idea, and the new idea might seem threatening and not entirely well thought through. Proponents
+of the "new good" idea might also be somewhat overzealous in promoting it, which could also result in more resistance than necessary. And that resistance might only entirely disappear with the death of the opponents, as Kuhn wrote. This can, for sure, be a frustrating experience, but resistance provides a “bar” that new ideas have to clear to be accepted. To first order, it's not the time it takes that matters most, but that error correction occurs: the "new good" idea is better than the "old good" idea. These principles are embedded in the [scientific method](https://en.wikipedia.org/wiki/Scientific_method)
 
-[Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) and Thomas Kuhn offered
-contrasting views on how science progresses. Popper argued that science advances
-through [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)—the process
-of making bold hypotheses and systematically testing them to eliminate errors. He
-saw scientific progress as gradual and rational, driven by continuous refinement.
-In contrast, Kuhn believed science moves through paradigm shifts—long periods of
-stability followed by sudden revolutions when old theories collapse under mounting
-anomalies. While Popper viewed scientists as rational truth-seekers, Kuhn highlighted
-the social and psychological resistance to new ideas, showing how scientific
-communities cling to outdated paradigms until a crisis forces change.
+[Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) and Thomas Kuhn offered contrasting views on how science progresses. Popper argued that science advances through [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)—making bold hypotheses and systematically testing them to eliminate errors. He saw scientific progress as gradual and rational, driven by continuous refinement. In contrast, Kuhn believed science moves through paradigm shifts—long periods of stability followed by sudden revolutions when old theories collapse under mounting anomalies. While Popper viewed scientists as rational truth-seekers, Kuhn highlighted the social and psychological resistance to new ideas.
 
-<!--
-In my view, either or both of these theories could apply to a given situation. What I
-think is important is to understand my role in these processes. If I am the one pushing
-a "new good" idea, I have to remind myself that facing resistance is part of the
-process toward acceptance and acting like an asshole and ridiculing my opponents
-might just make acceptance more difficult. If, on the other hand, I am the one resisting an
-idea, I should do it on the merits of the idea, not based on its perceived implications
-to my status and power. Why? Because I would much rather be seen as an objective and
-thoughtful thinker instead of a power-obsessed asshole. I also think that if I'm
-convinced of an idea's goodness, I might as well try to speed up its adoption because
-it will likely get there anyway. Of course, you might think differently, and other
-social or corporate constraints might prevent you from acting like this but it's
-an approach that could bring personal satisfaction.
--->
+The good news is that either or both theories could apply to a given situation. What matters most is understanding one's role in the process. [Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway) might have put it this way:
 
-The good news is that either or both theories could apply to a given situation. what
-matters most is understanding one's role in the process. Hemingway might have put it this way:
+> Know your place in the fight. When you push the new idea, expect the wall. All good ideas hit it. Don't be an ass about it. Mockery makes enemies, not converts. When you're the one fighting change, fight clean. Judge the idea on what it is, not on what you might lose. A man thinking straight earns respect. A man guarding his turf does not. If you believe, then act. Good ideas win in time. Help them. You'll sleep better. Your way may differ. The outfit may have rules. But a man chooses how he stands.
 
-Know your place in the fight. When you push the new idea, expect the wall.
-All good ideas hit it. Don't be an ass about it. Mockery makes enemies, not converts.
-When you're the one fighting change, fight clean. Judge the idea on what it is,
-not on what you might lose. A man thinking straight earns respect. A man
-guarding his turf does not. If you believe, then act. Good ideas win in time.
-Help them. You'll sleep better. Your way may differ. The outfit may have rules.
-But a man chooses how he stands.
+[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) famously said, “Everything should be made as simple as possible, but not simpler.” He believed that theories, ideas, and explanations should be elegant and free of unnecessary complexity, but they should never be so simplified that they lose their accuracy or meaning. This approach maximizes a good idea’s stickiness: the ability of an idea to be understood, remembered, and influential. However, even the minimal complexity of a good idea might be too high for people to understand and propagate. This gives an edge to worse ideas that are simpler to understand and more spreadable, which can, at least temporarily, displace better ideas.
 
-## Conceptual integrity
+## Deconstruction and self-reflection
 
+Deconstruction usually starts with association. Have I heard the idea before? Does it align with any other ideas I hold in my head? Does it "feel" right? Memes that succeed tend to be designed to induce emotions so that we remember and propagate them. They may not have been deliberately designed to fool us, but a strong emotional connection can make us take shortcuts in our analysis. For example, an ad for a mattress may highlight that the sale ends this weekend, which may prompt action to buy it even if we don’t need that mattress right away. An idea, “I need a mattress,” should be considered in its proper context, which may delay buying it.
 
+A meme can consist of multiple ideas: these should be considered both in isolation and together. There can be appeals to common sense, a meme that tries to apply peer pressure on me by claiming that the idea is obvious and generally accepted, and therefore, so should I. The idea may be good and common sense. Still, I could quickly believe something I shouldn't unless I use my critical faculties to judge what's presented.
 
+The Hungarian translation for common sense is "sober peasant mind," which elicits a mental image of a sturdy, no-nonsense, wise man, twirling his mustache, who lives in harmony with nature, works hard, lives in moderation, and has ample time to reflect on things in the evenings after his daily chores are done. Someone like this guy:
 
-Logical fallacies
+[![Hungarian Peasant in Kun hat](sober-peasant-mind.jpeg)](https://fotomuzeum.hu/fotografiak/haar_ferenc__magyar_paraszt_kun_suvegben)
 
-Consistency check (with other ideas)
+The imagery suggests I should empathize with that sober peasant, trust him, and even want to be like him. The emotional connection induced by the suggestion is there so that I will be less resistant to the proposed idea. Even better, from the meme’s point of view, I let my guard down and accept it without resistance.
 
+You might think such tricks don’t work on you, but the advertising industry proves otherwise. You might also think you’ll be immune to the sober peasant’s suggestion since you don’t speak Hungarian. Sure, initially, but my description of the peasant has already programmed you, and the phrase starts to do its magic on you right away. If you start hearing and using this phrase more, you’ll find that it will subtly plant specific imagery in your head and impact your emotional state. This impact comes from repetition and repeated emotional associations, a technique the advertisers gladly use. If you watch political ads (in the US), you can see some very
+transparent techniques: the "bad guy" is usually shown in black and white, with tense music in the background. The "good guy" smiles and is in color with upbeat music. If you pay attention to your reactions, you'll experience the emotions these ads were designed to elicit. The actual message of the ad is an overlay
+on top of the emotion track induced by sounds, words, and images.
 
-lineage
-break apart
+Emotional manipulation is overt in ads, but scientific articles also use words and story arcs to help the audience get on board with their ideas. In most cases, this helps convey the idea better, but in some cases, it may be used to cause the audience to gloss over specific weaknesses. The good news is that it is entirely up to you how you receive an idea. You can reflect on the subtle emotions you experience when you hear it. You can spend more time on important ones and try to understand why you are reacting to them the way you do. Some of these emotions will be about you; some will be about the idea itself. It is your job to differentiate between them. Investigating your feelings can lead to better clarity about the idea.
 
-How easily ideas spread
-is not a good measure of their "goodness." In fact, some of the best ideas are
+Here is something you can try right away. Do you remember the title of this essay? If not, look at it and remember the thoughts and emotions it elicits. Instead of "recognize," I used the word "tell" to create ambiguity, hoping you pause for a moment on what this essay is supposed to be about. And then I hoped it would make you read on with more curiosity than you would have otherwise. Did you feel it? Or are you dead inside? If the latter, don't worry: self-awareness will come with attention and the practice of cultivating a calmer and reflective state of mind.
 
-Understand it, be skeptical
-Has it been through the sceientific process?
-Memes are designed to replicate, not to represent the truth
-Be aware of logical fallacies
-Follow the incentives
-The anatomy of every conspiracy theory
-Communication style (hidden shared context)
-  Musk's tweet
+One can go deep into the analysis of ideas. Sometimes, this is appropriate; other times, it is just a distraction. If you have written a dissertation, you have probably experienced going down rabbit holes many times and the discipline it requires to resurface and readjust your priorities. For example, I would expect you to forget or just quickly file away my "sober peasant" example alongside many other ideas that might come in handy on trivia night. But you might also start wondering about what it says about Hungarian culture to talk about a peasant's mind instead of common sense. My guess is that this term emerged during the 18th century when there was a linguistic renewal, and only peasants spoke Hungarian daily. So, a pat on the back was deserved. But there is something else interesting in the grammar. Paraszt means peasant, paraszti means peasant-like. Notice that it is singular. The Hungarian peasant is an individual role model, which puts the reader in a frame of mind suggesting that if I think like this ideal peasant, I'll get the idea. In English, “common sense” refers to belonging to a group of people only defined by their agreement with an idea. Both attempt to induce the listener’s feeling of [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out). After all, who doesn't want to think correctly like a role model or to remain an outsider by not being included in the tribe? However, emotional coercion is different: analyzing this difference could
+go a long way down a rabbit hole, which I am keen to avoid, aside from this illustration.
 
-feelings, emotions, self-awareness
+A bit more on common sense: I can buy the idea that that Hungarian peasant will have the proper judgment about many ideas, but I'm pretty sure he would think of [Quantum Theory](https://www.nature.com/articles/d41586-025-00296-9) as horse
+manure. Or not, as he might consult an expert and trust that person's judgment. But even if he did think of complex scientific theories as horse manure by default, he might be right some of the [time](https://www.americanscientist.org/article/is-string-theory-even-wrong). Experts may disagree; after 50+ years of research, there is still no evidence that string theory relates to the physical world.
 
+Am I making a common sense? Who sets the standard? One person's "common" may be another person's "fringe.” But the real issue with common sense arguments is that when it is used disingenuously, it is an appeal to treat an idea as an
+[axiom](https://en.wikipedia.org/wiki/Axiom#:~:text=An%20axiom%2C%20postulate%2C%20or%20assumption,which%20commends%20itself%20as%20evident)
+even if the listener could evaluate its truth value. So, despite suggesting something is “common sense,” the listener should resist peer pressure and use judgment to determine whether it is before moving on to the next idea.
 
-The first thing to consider is the context of an idea. This encompasses all
-surrounding factors that shape its creation, meaning, and impact. This includes
-timing, cultural values, social structures, intellectual frameworks, personal
-experiences, situational needs, linguistic environments, pretty much everything
-aside from the idea itself.
+## The context is as important as the idea
 
-These contextual elements explain why ideas emerge
-when they do, why they resonate with certain groups, and how they're interpreted
-differently across settings. Understanding context reveals the hidden assumptions
-within ideas and illuminates why identical concepts can produce vastly different
-responses depending on when, where, and by whom they're presented. Context doesn't
-just frame ideas—it fundamentally determines their value.
+Have you ever experienced a disagreement with someone in which, after a long, heated discussion, you find that you had been talking about the same thing all along? In these cases, the “argument” is usually about the context, not the idea itself. Imagine you were an engineer tasked to design an electric plug and were talking to a colleague advocating two square plugs versus your solution involving three round ones. The discussion might start with the pros and cons of each design, quickly turning into a conversation about the assumptions that informed the design and, then, the merits of each assumption and different ways of dealing with it in the product. After a while, the two engineers might conclude that, given the assumptions, each design is fit for purpose; it is just that the assumptions are different. After the meeting, both can go back to product management to seek clarity on the requirements and quickly converge on a single design. However, the meeting can also go wrong: it could be seen as a turf war or an ego contest between two engineers who spend the next day and a half arguing and pressuring each other instead of understanding the fundamental causes of their disagreement. Taking time to align perspectives and clarify assumptions before analyzing the idea prevents wasted time and emotional energy.
 
-After understanding context, I evaluate each idea on merit and coherence with my
-existing beliefs. I consider what adjustments accepting it might require, remain
-alert to logical fallacies, and test for conceptual integrity. This process helps
-me both assess ideas accurately and effectively communicate them to others.
+If someone is familiar with an idea, the difference between the context and the idea itself can blur. It takes extra effort to untangle these, but it is vital to do so: the appropriateness of an idea always depends on its context. The current context may be different from the one considered before. A good idea in one situation may be the wrong one in another. An example of this is [homeopathy](https://en.wikipedia.org/wiki/Homeopathy). Samuel Hahnemann, a German doctor in the 1790s, looked at his colleagues stabbing patients with leeches and poisoning them with mercury and thought, "There's gotta be a better way!" After downing some cinchona bark and giving himself malaria-like symptoms, he had his eureka moment: "What if the poison *is* the cure?" Then he decided the less medicine in the medicine, the better it works - and homeopathy was born! Patients loved it because, unlike regular "medicine" of the time, it didn't actively kill them.
+
+Never mind that Hahnemann didn't correctly identify cause and effect; he stumbled upon an idea that was a net positive at the time. Fast forward 200+ years and some people still swear by it. Homeopathic remedies are so diluted that you are just drinking expensive water by the time you take them. 30C, a measure of dilution, means that the dilution is beyond [Avogadro's number](https://en.wikipedia.org/wiki/Avogadro_constant), meaning the likelihood of any original substance being left is zero. Homeopathic practitioners give lengthy, attentive consultations (because that's actually what you're paying for), but that doesn’t make the sugar pills or vials of water any more effective. Congratulations if you feel better after taking them; you’ve unlocked the power of the placebo effect! Just keep your real doctor in the loop if your chakras fail to fight strep throat.
+
+In my view, homeopathy in the 21st century turned into a bad idea, as it propagates [magical thinking](https://en.wikipedia.org/wiki/Magical_thinking). But would I be open to magic if I had cancer and I’d already exhausted all other therapies? Maybe... but probably no: I don't believe that the [placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects)
+requires a [cashectomy](https://en.wiktionary.org/wiki/cashectomy) to work.
+
+## Integrity of ideas
+
+Even if we don’t know much about the subject of an idea, we can get a view of its validity by comparing it with other ideas. Does the logic that validates one apply the same way to another? Does believing in one contradict the other? Do the ideas have similar structures?
+
+[Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) is a philosophical principle that states that when presented with competing hypotheses or explanations for something, the simplest one—the one that makes the fewest assumptions—is usually the correct one or should be preferred. This principle serves as a heuristic guide in scientific reasoning and theory development. It doesn't definitively prove that the simpler explanation is correct but instead suggests that simpler theories are preferable because:
+- They are easier to test
+- They are less likely to include unnecessary complications
+- They often have greater explanatory power
+Scientists and philosophers use this principle regularly when evaluating competing theories that explain the same evidence. However, it's important to note that "simpler" doesn't always mean "easier to understand" but rather "making fewer assumptions" or "requiring fewer entities."
+
+In [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), Frederick Brooks presents conceptual integrity as a cornerstone for successful system design. He defines conceptual integrity as the unity of design, where the system reflects a coherent set of design ideas rather than a patchwork of different approaches. Brooks applied this principle to build the IBM OS/360 operating system to make it usable for his customers and the code maintainable for the large engineering team tasked to build it. The conceptual integrity principle means that users and developers need to learn fewer ideas to work with the system and that these ideas are reused in many parts of the system, thereby reducing the [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+
+Many system designers aspire to conceptual integrity, but few achieve it. It’s not just hard to come up with it in the first place; it’s also hard to enforce as systems evolve. However, every human attempts to do something similar when incorporating a new idea into his mind. A mind is not a blank slate, so any new ideas must be integrated alongside existing ones, bringing up the need to create integrity between them. Integrity is enabled by coherence and consistency. Consistency means that the ideas don't contradict each other or contain logical inconsistencies. Coherence ensures that the ideas form a unified whole rather than a disconnected collection of thoughts. 
+
+## Logical fallacies
+
+However, emotion and logic can be tangled up to create true-sounding fallacies that lead to the acceptance of bad ideas. The Internet Encyclopedia of Philosophy lists 231 names of the most common [fallacies](https://iep.utm.edu/fallacy/). These describe lots of ways of being fooled by arguments and, conversely, a rich toolkit for making misleading arguments:
+
+> Depending on the particular theory of fallacies, it might refer either to (a) a kind of error in an argument, (b) a kind of error in reasoning (including arguments, definitions, explanations, questions, and so forth), (c) a false belief, or (d) the cause of any of the previous errors including what are normally referred to as “rhetorical techniques.”
+
+Below are some common fallacies that cloud judgment:
+
+- [Ad Hominem](https://en.wikipedia.org/wiki/Ad_hominem) – Attacking the person instead of addressing their argument. Example: “You can’t trust his opinion on economics—he didn’t even finish college.”
+
+- [Straw Man Fallacy](https://en.wikipedia.org/wiki/Straw_man): Misrepresenting an opponent’s argument to make it easier to attack. Example: “You want to regulate gun sales? So you’re saying we should ban all guns and leave people defenseless?”
+
+- [Bandwagon Fallacy](https://en.wikipedia.org/wiki/Argumentum_ad_populum): Appealing to popularity rather than merit. Example: "Everyone is buying this product, so it must be good."
+
+- [Appeal to Emotion](https://en.wikipedia.org/wiki/Appeal_to_emotion) – Using feelings rather than logic to persuade. Example: “Think of the children! We must ban this book immediately.”
+
+- [False Dilemma](https://en.wikipedia.org/wiki/False_dilemma) (Black-and-White Fallacy): Presenting only two options when more exist. Example: “Either you support this policy or don’t care about our country’s future.”
+
+- [Begging the Question](https://en.wikipedia.org/wiki/Begging_the_question) (Circular Reasoning) – Assuming the conclusion within the premise. Example: “We know that ghosts exist because people have seen them.”
+
+- [Post Hoc Ergo Propter Hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) (False Cause Fallacy) – Assuming that because one event followed another, the first caused the second. Example: “I wore my lucky socks, and my team won. My socks must have helped!”
+
+- [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias): Tendency to search for or interpret information that confirms one's preexisting beliefs. Example: "I read an article supporting my view on climate change, so I must be right" (while ignoring contradictory evidence).
+
+- [Sunk Cost Fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect): Continuing a behavior based on previously invested resources. Example: "I've already spent $5,000 on repairing this old car, so I should keep investing in it."
+
+- [Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): Overestimating the likelihood of events based on their availability in memory. Example: "Plane crashes are more common than car accidents" (because plane crashes receive more media coverage).
+
+And many heuristics have been suggested to correct for some of them:
+
+- [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "Never attribute to malice what can be adequately explained by stupidity (or ignorance)." This heuristic encourages us to avoid assuming bad intentions when mistakes or incompetence could explain a situation.
+
+- [Hickam's Dictum](https://en.wikipedia.org/wiki/Hickam%27s_dictum): "A patient can have as many diseases as they damn well please." This medical heuristic contrasts with Occam's razor, reminding doctors that sometimes multiple conditions can exist simultaneously.
+
+- [The principle of Parsimony](https://en.wikipedia.org/wiki/Occam%27s_razor) is very similar to Occam’s razor. It states that the simplest solution or explanation is preferable to more complex ones.
+
+- [Hitchen's Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor): "What can be asserted without evidence can be dismissed without evidence." This helps evaluate claims that lack supporting evidence.
+
+- [Hume's Guillotine](https://en.wikipedia.org/wiki/Is–ought_problem): "You cannot derive an ought from an is." This reminds us that descriptive statements about the world don't automatically lead to prescriptive moral conclusions.
+
+- [Sagan Standard](https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence): "Extraordinary claims require extraordinary evidence." This sets proportional evidence requirements based on how unusual a claim is.
+
+- [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem): A probability principle that guides updating our beliefs when new evidence emerges.
+
+These heuristics and others provide the self-aware thinker with the tools to detect ideas designed to manipulate and deploy the appropriate countermeasures to avoid infection. They also enable the self-aware storyteller to a self-aware audience to make their arguments more compelling by avoiding them.
+
+## [And now for something completely different](https://www.youtube.com/watch?v=dlCbFu5dpc8)
+
+More than anything, I hope that this essay makes you think more about thinking. You may have found it surprising that a text about ideas and logic talks so much about self-awareness. But the truth is that thinking involves both the prefrontal cortex, where logic can be performed, and the limbic system, which processes emotions, motivation, learning, and memory. It is very important when considering ideas properly to avoid being under the undue and often misleading influence of emotions. This can be hard even when alone. It is even harder under the constant barrage of memes from social media optimized for maximum manipulation. Improving emotional regulation enables the prefrontal cortex to have the impact it deserves. The rest comes from practice and the applications of the principles above. Enjoy!

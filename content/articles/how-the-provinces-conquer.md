@@ -19,6 +19,7 @@ remain strikingly relevant today.
 VIII. Semester, Lecture 5 - March 20, 2006
 
 GYÖRGY SPIRÓ
+
 # HOW DO THE PROVINCES CONQUER? - ON THE HISTORICAL BACKGROUND OF THE NOVEL "CAPTIVITY"
 
 The background of "Captivity" is set in the 1st century BC Roman Empire. The lecture is not about the novel itself but about some lessons from the research that served as the basis for the novel. The foreign policy of the Roman Empire was based on the principle that Rome did not interfere in the religious, economic, and legal life of the provinces. In the capital, gods of every nation conquered by force or persuaded with money were given statues, according to a multicultural, uniquely tolerant, and wise approach that no superpower has been able to demonstrate since. Despite this, the intolerant mentality of the peripheries penetrated the center and shattered imperial Rome both culturally and politically. What could be the reason for this? Is it possible to draw parallels between developments two thousand years ago and current trends?

@@ -23,31 +23,3 @@
 .menu__btn {
   color: #000000; /* Light text for dark backgrounds */
 }
-
-/* For the navigation menu items */
-.menu__item,
-.menu__list {
-  color: #ffffff;
-}
-
-/* For hover states */
-.menu__list:hover {
-  color: #e0e0e0;
-}
-
-
-/* Target the menu container */
-.menu__container {
-  background-color: #FFF5EE; /* Replace with your desired color */
-}
-
-/* You might need to adjust text colors for better contrast */
-.menu__item,
-.menu__list {
-  color: #ffffff; /* Light text for dark backgrounds */
-}
-
-/* For hover states */
-.menu__list:hover {
-  color: #e0e0e0;
-}

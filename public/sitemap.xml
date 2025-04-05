@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/articles/</loc>
     <lastmod>2025-03-27T19:32:52+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/articles/equity-is-a-bad-idea/</loc>
+    <lastmod>2025-03-27T19:32:52+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-27T19:32:52+01:00</lastmod>
   </url><url>
@@ -21,8 +24,6 @@
     <lastmod>2025-03-15T21:41:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/articles/equity-is-a-bad-idea/</loc>
   </url><url>
     <loc>http://localhost:1313/articles/structure-of-conspiracy-theories/</loc>
   </url><url>
