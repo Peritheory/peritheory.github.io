@@ -2,33 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2025-03-27T19:32:52+01:00</lastmod>
+    <loc>https://peritheory.com/articles/</loc>
+    <lastmod>2025-04-05T09:00:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/equity-is-a-bad-idea/</loc>
-    <lastmod>2025-03-27T19:32:52+01:00</lastmod>
+    <loc>https://peritheory.com/articles/how-to-tell-a-bad-idea/</loc>
+    <lastmod>2025-04-05T09:00:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-27T19:32:52+01:00</lastmod>
+    <loc>https://peritheory.com/</loc>
+    <lastmod>2025-04-05T09:00:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/the-golden-rule-and-fairness/</loc>
-    <lastmod>2025-03-27T19:32:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/why-do-companies-bend-the-rules/</loc>
-    <lastmod>2025-03-27T19:32:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/how-to-tell-a-bad-idea/</loc>
-    <lastmod>2025-03-26T09:00:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/how-the-provinces-conquer/</loc>
+    <loc>https://peritheory.com/articles/how-the-provinces-conquer/</loc>
     <lastmod>2025-03-15T21:41:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://peritheory.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/articles/structure-of-conspiracy-theories/</loc>
+    <loc>https://peritheory.com/articles/structure-of-conspiracy-theories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://peritheory.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://peritheory.com/tags/</loc>
   </url>
 </urlset>
